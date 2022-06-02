@@ -17,7 +17,7 @@ I have 16 years of experience building and running my own six-figure Real Estate
 
   - Created a six-figure business that I ran by myself 
   
-  - I learned Entrepreneurship skills that taught me skills in all aspects of business:
+  - I learned Entrepreneurship skills that taught me all aspects of business:
        - Customer Service
        - Client-Centric Approach
        - Community Involvement (Home ownership affordability, helping people lower property taxes, etc.)
