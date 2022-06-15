@@ -1,5 +1,5 @@
 
-# 🙋‍♂️   Meet Josh Hayles  |  Software Engineer
+# 🙋‍♂️   Meet Josh Hayles  |  Solutions Engineer @ Datadog | Real Estate Tech Enthusiast | Fair Property Tax Advocate
 > **My greatest ability is the desire to learn.**
 
 ## Links
@@ -9,7 +9,7 @@
 
 ## My Quick Intro
 
-I have 16 years of experience building and running my own six-figure Real Estate business. I have significant skills regarding customer service, customer/user experience (both; online via product use, as well as in-person communication with people), and I love building systems and processes that solve problems and help people. I'm now combining my business and customer skillset with my technology skills in Javascript and Front-End experiences. I’m looking to join a creative work culture that solves homeownership and real estate problems. I work hard, I'm a team player, and I never stop learning. 
+I have 16 years of experience building and running my own six-figure Real Estate business. I have significant skills regarding customer service, customer/user experience (both; online via product use, as well as in-person communication with people), and I love building systems and processes that solve problems and help people. I'm now combining my business and customer skillset with my technology skills in Javascript and Front-End experiences. I'm currently building my passion project that will help homeowners reduce their property taxes, while working full time as a Solutions Engineer with Datadog.
 
 
 ## My Real Estate Background
@@ -30,7 +30,7 @@ I have 16 years of experience building and running my own six-figure Real Estate
        - Creating memorable and pleasant experiences for my clients in a variety of ways
 
 
-## My Engineer Background with Flatiron
+## My Software Engineer Background with Flatiron
 - At Flatiron, I learned a variety of technology and put in 45 to 60 hours of work per week into their program for roughly 4 months
 
 - The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby and Rails 
@@ -119,4 +119,4 @@ I have 16 years of experience building and running my own six-figure Real Estate
     
 ## 🎁  Conclusion
 
-I’m not an overly-confident person, but I know what my strengths and weaknesses are. I’d be an asset to your team. Put me to the test and let me work on some day to day tasks you need help with. I can be the person you need.
+Feel free to reach out via LinkedIn if you'd like to chat!
