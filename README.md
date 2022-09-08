@@ -111,11 +111,6 @@ I have 16 years of experience building and running my own six-figure Real Estate
         1. Tax Corrector Paid membership
         2. Local Realtors can sponsor the reports that are downloaded for a fee
         3. Homeowners can access our preferred Realtor Network when they’re ready to sell, and Tax Corrector will get paid a 25% referral fee from the Realtor
-    5. Please review my Github for this project and take a look at the code that’s currently implemented. I used Rails to incorporate a full Auth login process with B-Crypt, Javascript, React, and Material UI for the front-end. I became really comfortable with Ruby and Rails on this project
-
-### 2. Code Red
-    
-    1. A fun and unique approach to having weekly tech conversations with people from all walks of tech life. Click the “code red’ link to see more
     
 ## 🎁  Conclusion
 
