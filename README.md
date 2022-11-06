@@ -33,22 +33,7 @@ I have 16 years of experience building and running my own six-figure Real Estate
 ## My Software Engineer Background with Flatiron
 - At Flatiron, I learned a variety of technology and put in 50 to 60 hours of work per week into their program for roughly 4 months
 
-- The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby and Rails 
-
-
-| FRONT-END                         | BACK-END                   |
-| --------------------------------- | -------------------------- |
-| Javascript                        | Ruby / Rails               |
-| React                             | Active Record              |
-| DOM Manipulation, DOM Events      | JSON Data                  |
-| Asynchronous Javascript and Fetch | CRUD Operations            |
-| State                             | HTTP Requests              |
-| React Forms                       | Active Record              |
-| Component Lifecycle               | Active Record Associations |
-| useEffect                         | Debugging                  |
-| React Router                      | Auth                       |
-| Styled Components                 |                            |
-
+- The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby and Rails. However, I have focused on primarily a JavaScript approach for frontend and backend.
 
 ## Why I love Software Engineering
 - I’m a tech-enthusiast, especially when it comes to Real Estate technology
