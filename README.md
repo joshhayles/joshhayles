@@ -9,7 +9,7 @@
 
 ## My Quick Intro
 
-I have 16 years of experience building and running my own six-figure Real Estate business. I have significant skills regarding customer service, customer/user experience (both; online via product use, as well as in-person communication with people), and I love building systems and processes that solve problems and help people. I'm now combining my business and customer skillset with my technology skills in Javascript and Python. I'm currently building my passion project that will help homeowners reduce their property taxes, while working full time as a Solutions Engineer with Datadog.
+I have 16 years of experience building and running my own six-figure Real Estate business. I have significant skills regarding customer service, customer/user experience (both; online via product use, as well as in-person communication with people), and I love building systems and processes that solve problems and help people. I'm now combining my business and customer skillset with my "stay curious" approach to technology. I'm currently building my passion project that will help homeowners reduce their property taxes, while working full time as a Solutions Engineer with Datadog.
 
 
 ## My Background
@@ -47,13 +47,12 @@ I have 16 years of experience building and running my own six-figure Real Estate
     
 ## What I Bring to the Table
 - Team Player  👊 
-    - You’ll never hear “that’s not my job” from me
+    - I love working with people who are eager to learn and love to talk about technology
     
     - Whatever needs to be done to help the team, I’m all-in. If someone needs me to cover for them, no problem at all. Someone needs me to pick up the slack and help with additional work, no sweat. Whatever it takes
 
 
     - Innovative ideas for improving / creating products and services to benefit the team’s goals
-
 
     - Collaborating with the team and communicating effectively is important to me
     
@@ -63,7 +62,7 @@ I have 16 years of experience building and running my own six-figure Real Estate
 - Passionate, Hard Work (with a never-ending appetite for learning and improvement)  ⛑️ 
     - Working hard is something that came natural to me in Real Estate because I loved everything about it. That same passion is now being applied to tech and entrepreneurial services that improve the user’s experience 
     
-    - I’m currently studying DSA’s, Javascript, and testing software using tools like Cypress and Jest on a daily basis
+    - I’m currently studying DSA’s, Python, Cloud Technologies, Containers (Kubernetes and Docker) on a daily basis
     
     - I’m not only capable of learning any technology that’s needed for the job, I’m excited to do so!
 
