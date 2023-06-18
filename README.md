@@ -9,7 +9,7 @@
 
 ## My Quick Intro
 
-I have 16 years of experience building and running my own six-figure Real Estate business. I have significant skills regarding customer service, customer/user experience (both; online via product use, as well as in-person communication with people), and I love building systems and processes that solve problems and help people. I'm now combining my business and customer skillset with my "stay curious" approach to technology. I'm currently building my passion project that will help homeowners reduce their property taxes, while working full time as a Solutions Engineer with Datadog.
+I have 16 years of experience building and running my own Real Estate business. I have significant skills regarding customer service, the user experience (both, online via product use, as well as in-person communication with people), and I love building systems and processes that solve problems, creates efficiency, and helps others. Combining my business / customer skillset with my "stay curious" approach to technology gives me an advantage of being able to jump into a tech role and quickly understand what's best for the customer. I'm currently building my passion project that helps homeowners reduce their property taxes, while working full time as a Solutions Engineer with Datadog.
 
 
 ## My Background
@@ -19,21 +19,22 @@ I have 16 years of experience building and running my own six-figure Real Estate
   
   - I learned Entrepreneurship skills that taught me all aspects of business:
        - Customer Service
-       - Client-Centric Approach
-       - Community Involvement (Home ownership affordability, helping people lower property taxes, etc.)
-       - Customer Interaction with hands-on communication methods, as well as automating systems for efficiency and accuracy 
+       - Customer-Centric Approach
+       - Community Involvement (Home ownership affordability, helping homeowners lower property taxes)
+       - Customer Interaction with hands-on communication methods, and automating systems for efficiency and accuracy 
        - Developing Business Plans Customized to my Client’s needs
-       - Strong Written and Verbal Communication Skills
+       - Strong Written and Verbal Communication Skills (Real estate newsletters, Blogs, Neighborhood Analysis, etc)
        - Product and Technology Research that benefited my clients and business needs
        - Teamwork collaboration with a variety of parties involved in each transaction that required custom communication methods
-       - Educating clients and the public about the market, technology, trends
+       - Educating clients and the public about the market, technology, and trends
        - Creating memorable and pleasant experiences for my clients in a variety of ways
 
 
 ## My Software Engineer Background with Flatiron
 - At Flatiron, I learned a variety of technology and put in 50 to 60 hours of work per week into their program for roughly 4 months
 
-- The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby and Rails. However, I have focused on primarily a JavaScript approach for frontend and backend.
+- The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby / Rails.
+- Since then, I have focused on improving my Backend Development skills using: Python, Automation Techniques, Kubernetes, Containers, Serverless Operations, APIs, solving DSAs (Data Structures and Algorithms), System Design, and more.
 
 ## Why I love Software Engineering
 - I’m a tech-enthusiast, especially when it comes to Real Estate technology
@@ -60,7 +61,7 @@ I have 16 years of experience building and running my own six-figure Real Estate
 
 
 - Passionate, Hard Work (with a never-ending appetite for learning and improvement)  ⛑️ 
-    - Working hard is something that came natural to me in Real Estate because I loved everything about it. That same passion is now being applied to tech and entrepreneurial services that improve the user’s experience 
+    - Working hard is something that came natural to me in Real Estate because I loved everything about it. That same passion is applied to tech and entrepreneurial services that improve the user’s experience 
     
     - I’m currently studying DSA’s, Python, Cloud Technologies, Containers (Kubernetes and Docker) on a daily basis
     
@@ -72,17 +73,15 @@ I have 16 years of experience building and running my own six-figure Real Estate
     
     - I’m also great at coming up with creative and innovative ideas for new products / services (especially Real Estate, Investing, Homeownership, and Finance)
     
-    - Putting myself in the customer’s shoes and having an experience through their eyes is something I’ve done well for more than 16 years in Real Estate:
-    
         - Example: I created a publication called “Inside the Mind of the Buyer” that taught Homeowners how to think like a buyer before they put their home on the market. When you list your home and you’re asking someone to pay a price for it you’re now in the presentation game. Your home is open to public opinion, and you have to care about every detail because that’s what the buyer is thinking as they walk through your home:
         
             - I had to understand everything about my client’s goals and create a custom plan that fit their needs, desires, timelines, communication preferences, their expectations, etc.
             
-            - I anticipated (I didn’t wait for them to ask) areas of concern, objections they would likely have, and I created custom plans to make sure there weren’t any holes that needed to be plugged in my process:
+            - I anticipated areas of concern, objections they would likely have and I created custom plans to make sure there weren’t any holes that needed to be plugged in my process:
             
                 - Example: I created an estimated proceeds sheet called provides a breakdown of all the costs associated to the seller when they sell their home, and an estimated “walk away” amount to give them an idea of how much money they’ll get at the closing table. I was within $500.00 accuracy with this approach (it was reliable and predictable)
                 
-                - I presented this at our initial meeting because I knew it would help them make an informed decision about selling. I didn’t wait until the last minute
+                - I presented this at our initial meeting because I knew it would help them make an informed decision about selling.
                 
 ## 👾   Products / Services I Created
 
