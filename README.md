@@ -63,7 +63,7 @@ I have 16 years of experience building and running my own Real Estate business. 
 - Passionate, Hard Work (with a never-ending appetite for learning and improvement)  ⛑️ 
     - Working hard is something that came natural to me in Real Estate because I loved everything about it. That same passion is applied to tech and entrepreneurial services that improve the user’s experience 
     
-    - I’m currently studying DSA’s, Python, Cloud Technologies, Containers (Kubernetes and Docker) on a daily basis at Datadog
+    - I’m currently studying Cloud Technologies, Containers (Kubernetes and Docker),and advanced troubleshooting on a daily basis at Datadog
     
     - I’m not only capable of learning any technology that’s needed for the job, I’m excited to do so!
 
