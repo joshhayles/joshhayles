@@ -9,7 +9,7 @@
 
 ## My Quick Intro
 
-I have 16 years of experience building and running my own Real Estate business. I have significant skills regarding customer service, the user experience (both, online via product use, as well as in-person communication with people), and I love building systems and processes that solve problems, creates efficiency, and helps others. Combining my business / customer skillset with my "stay curious" approach to technology gives me an advantage of being able to jump into a tech role and quickly understand what's best for the customer. I'm currently building my passion project that helps homeowners reduce their property taxes, while working full time as a Solutions Engineer with Datadog.
+I have 16 years of experience building and running my own Real Estate business. I have significant skills regarding customer service, the user experience (both, online via product use, as well as in-person communication with people), and I love building systems and processes that create efficiency, and helps others. Combining my business / customer skillset with my "stay curious" approach to technology gives me an advantage of being able to jump into a tech role and quickly understand what's best for the customer. I'm currently building my passion project that helps homeowners reduce their property taxes, while working full time as a Solutions Engineer with Datadog.
 
 
 ## My Background
@@ -34,7 +34,7 @@ I have 16 years of experience building and running my own Real Estate business. 
 - At Flatiron, I learned a variety of technology and put in 50 to 60 hours of work per week into their program for roughly 4 months
 
 - The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby / Rails.
-- Since then, I have focused on improving my Backend Development skills using: Python, Automation Techniques, Kubernetes, Containers, Serverless Operations, APIs, solving DSAs (Data Structures and Algorithms), System Design, and more.
+- Since then, I have focused on improving my Web Development skills using: JavaScript (Pure / Vanilla), advanced JavaScript, CSS / Styling and Prototyping, Svelte/Sveltekit, Node.js, and solving DSAs (Data Structures and Algorithms).
 
 ## Why I love Software Engineering
 - I’m a tech-enthusiast, especially when it comes to Real Estate technology
@@ -43,27 +43,27 @@ I have 16 years of experience building and running my own Real Estate business. 
     
     - I love creativity and having the ability to constantly make improvements
     
-    - I want to combine my business skills with technology and solve problems 
+    - I want to combine my business skills with technology and solve problems for homeowners
     
     
 ## What I Bring to the Table
 - Team Player  👊 
     - I love working with people who are eager to learn and love to talk about technology
     
-    - Whatever needs to be done to help the team, I’m all-in. If someone needs me to cover for them, no problem at all. Someone needs me to pick up the slack and help with additional work, no sweat. Whatever it takes
+    - Whatever needs to be done to help the team, I’m all-in.
 
 
-    - Innovative ideas for improving / creating products and services to benefit the team’s goals
+    - Innovative ideas for improving / creating products and services to benefit the team’s goals.
 
-    - Collaborating with the team and communicating effectively is important to me
+    - Collaborating with the team and communicating effectively is important to me.
     
-    - Loyalty. When I commit, I’m all-in
+    - Loyalty. When I commit, I commit.
 
 
 - Passionate, Hard Work (with a never-ending appetite for learning and improvement)  ⛑️ 
     - Working hard is something that came natural to me in Real Estate because I loved everything about it. That same passion is applied to tech and entrepreneurial services that improve the user’s experience 
     
-    - I’m currently studying DSA’s, Python, Cloud Technologies, Containers (Kubernetes and Docker) on a daily basis
+    - I’m currently studying DSA’s, Python, Cloud Technologies, Containers (Kubernetes and Docker) on a daily basis at Datadog
     
     - I’m not only capable of learning any technology that’s needed for the job, I’m excited to do so!
 
