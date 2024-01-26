@@ -3,7 +3,6 @@
 > **My greatest ability is the desire to learn.**
 
 ## Links
-📽️ [Video Intro](https://www.loom.com/share/0740dba006be41069c14bb9a6c041773?sharedAppSource=personal_library)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/joshhayles/)
 
