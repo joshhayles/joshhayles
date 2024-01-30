@@ -8,13 +8,11 @@
 
 ## My Quick Intro
 
-I have 16 years of experience building and running my own Real Estate business. I have significant skills regarding customer service, the user experience (both, online via product use, as well as in-person communication with people), and I love building systems and processes that create efficiency, and helps others. Combining my business / customer skillset with my "stay curious" approach to technology gives me an advantage of being able to jump into a tech role and quickly understand what's best for the customer. I'm currently building my passion project that helps homeowners reduce their property taxes, while working full time as a Solutions Engineer with Datadog.
+After 15 years of experience building and running my own Real Estate business, I have significant skills regarding customer service, the user experience (both, online via product use, as well as in-person communication with people), and I love building systems and processes that create efficiency. Combining my business and customer skillset with my "stay curious" approach to technology allows me to step into any tech role and quickly understand what's best for the customer. I'm currently building my passion project that helps homeowners reduce their property taxes, while working full time as a Solutions Engineer with Datadog.
 
 
 ## My Background
-- 16 years of experience in Real Estate
-
-  - Created a six-figure business that I ran by myself 
+- 15 years of experience in Real Estate, where I created a six-figure business that I ran by myself.
   
   - I learned Entrepreneurship skills that taught me all aspects of business:
        - Customer Service
