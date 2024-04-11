@@ -33,14 +33,14 @@ After 15 years of experience building and running my own Real Estate business, I
 - The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby / Rails.
 - Since then, I have focused on improving my Web Development skills using: JavaScript (Pure / Vanilla), advanced JavaScript, CSS / Styling and Prototyping, Svelte/Sveltekit, Node.js, and solving DSAs (Data Structures and Algorithms).
 
-## Why I love Software Engineering
+## Why I love Technology
 - I’m a tech-enthusiast, especially when it comes to Real Estate technology
 
-    - I thrive on a fast-paced environment that allows me to learn new things
+    - I thrive on an environment that allows me to learn new things
     
     - I love creativity and having the ability to constantly make improvements
     
-    - I want to combine my business skills with technology and solve problems for homeowners
+    - I love to combine my business skills with technology to solve problems for homeowners
     
     
 ## What I Bring to the Table
@@ -48,7 +48,6 @@ After 15 years of experience building and running my own Real Estate business, I
     - I love working with people who are eager to learn and love to talk about technology
     
     - Whatever needs to be done to help the team, I’m all-in.
-
 
     - Innovative ideas for improving / creating products and services to benefit the team’s goals.
 
@@ -60,7 +59,7 @@ After 15 years of experience building and running my own Real Estate business, I
 - Passionate, Hard Work (with a never-ending appetite for learning and improvement)  ⛑️ 
     - Working hard is something that came natural to me in Real Estate because I loved everything about it. That same passion is applied to tech and entrepreneurial services that improve the user’s experience 
     
-    - I’m currently studying Cloud Technologies, Containers (Kubernetes and Docker),and advanced troubleshooting on a daily basis at Datadog
+    - I’m currently studying Cloud Technologies, Containers (Kubernetes and Docker), and advanced troubleshooting on a daily basis at Datadog
     
     - I’m not only capable of learning any technology that’s needed for the job, I’m excited to do so!
 
