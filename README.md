@@ -33,7 +33,7 @@ After 15 years of experience building and running my own Real Estate business, I
 - The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby / Rails.
 - Since then, I have focused on improving my Web Development skills using: JavaScript (Pure / Vanilla), advanced JavaScript, CSS / Styling and Prototyping, Svelte/Sveltekit, Node.js, and solving DSAs (Data Structures and Algorithms).
 
-## Why I love Technology
+## Why I love Technology, and writing about it
 - I’m a tech-enthusiast, especially when it comes to Real Estate technology
 
     - I thrive on an environment that allows me to learn new things
