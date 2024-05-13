@@ -6,7 +6,7 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/joshhayles/)
 
-🔗 [MyTechnicalWriting](www.staycurious.io)
+🔗 [MyTechnicalWriting](staycurious.io)
 
 ## My Quick Intro
 
