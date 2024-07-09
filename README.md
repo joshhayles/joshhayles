@@ -1,5 +1,5 @@
 
-# 🙋‍♂️   Meet Josh Hayles  |  Solutions Engineer II @ Datadog | #cloudTech #kubernetes #containers #technicalWriting
+# 🙋‍♂️   Meet Josh Hayles  |  Solutions Engineer II @ Datadog | #technicalWriting #kubernetes #containers #webDevelopment
 > **My greatest ability is the desire to learn.**
 
 ## Links
