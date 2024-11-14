@@ -1,5 +1,5 @@
 
-# 🙋‍♂️   Meet Josh Hayles  |  Solutions Engineer II @ Datadog | #technicalWriting #kubernetes #AWS #webDevelopment
+# 🙋‍♂️   Meet Josh Hayles  |  Solutions Engineer II @ Datadog | #technicalWriting #kubernetes #AWS #WebDevelopment
 > **My greatest ability is the desire to learn.**
 
 ## Links
