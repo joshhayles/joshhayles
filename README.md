@@ -6,7 +6,10 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/joshhayles/)
 
+[AWS Cloud Practitioner Certification](https://www.credly.com/badges/64aa49f6-67db-403d-967f-c34014a286c8/public_url)
+
 🔗 [MyTechnicalWriting](https://staycurious.io/lists)
+
 
 ## My Quick Intro
 
