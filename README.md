@@ -11,13 +11,16 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/joshhayles/)
 
 
-## My Quick Intro
+## A little about me
 
-After 15 years of experience building and running my own Real Estate business, I have significant skills regarding customer service, the user experience (both, online via product use, as well as in-person communication with people), and I love building systems and processes that create efficiency. Combining my business and customer skillset with my "stay curious" approach to technology allows me to step into any tech role and quickly understand what's best for the customer. I'm currently building my passion project that helps homeowners reduce their property taxes, while working full time as a Solutions Engineer with Datadog.
+After 15 years of experience building and running my own Real Estate business, I have significant skills regarding customer service, the user experience (both, online via product use, as well as in-person communication with people), and I love building systems and processes that create efficiency. 
 
+Combining my business and customer skillset with my "stay curious" approach to technology is what allowed me to build my passion project called Tax Corrector, which is a website that helps homeowners reduce their property taxes (more info below).
+
+As a Solutions Engineer II at Datadog, I specialize in Containers and Cloud. I help customers integrate the Datadog Agent into their container environments (Kubernetes, EC2, Fargate, AWS, VMs, etc) to collect their Logs, Metrics, Traces, custom metrics, and more. I'm always challenging myself to deepen my knowledge and expertise in these areas, strengthening my skills in the Datadog product, and diving deep into complex issues.
 
 ## My Background
-- 15 years of experience in Real Estate, where I created a six-figure business that I ran by myself.
+15 years of experience in Real Estate, where I created a six-figure business that I ran by myself.
   
   - I learned Entrepreneurship skills that taught me all aspects of business:
        - Customer Service
@@ -31,14 +34,20 @@ After 15 years of experience building and running my own Real Estate business, I
        - Educating clients and the public about the market, technology, and trends
        - Creating memorable and pleasant experiences for my clients in a variety of ways
 
+## Tax Corrector - the website I built that helps homeowners lower their property taxes
+Tax Corrector is a website I built that helps homeowners lower their property taxes. I currently have hundreds of paying customers using this service each year. 
+
+- Engineered and deployed (AWS Fargate) a scalable web application using Django, JavaScript, HTML, and CSS that processes hundreds of annual property tax protest reports, featuring automated evaluation forms and secure payment processing (Stripe)
+- Implemented data-driven algorithms (taken from my experience in Real Estate) along with a responsive UI/UX design, high quality PDF reports that result in an average of a 12% - 20% reduction for customers, and a 90% success rate
 
 ## My Software Engineer Background with Flatiron
-- At Flatiron, I learned a variety of technology and put in 50 to 60 hours of work per week into their program for roughly 4 months
+At Flatiron, I learned a variety of technology and put in 50 to 60 hours of work per week into their program for roughly 4 months
 
-- The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby / Rails.
-- Since then, I have focused on improving my Web Development skills using: JavaScript (Pure / Vanilla), advanced JavaScript, CSS / Styling and Prototyping, Svelte/Sveltekit, Node.js, and solving DSAs (Data Structures and Algorithms).
+The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby / Rails.
 
-## Why I love Technology, and writing about it
+Since then, I have focused on improving my Web Development skills using: JavaScript (Pure / Vanilla), advanced JavaScript, CSS / Styling and Prototyping, Svelte/Sveltekit, Node.js, and solving DSAs (Data Structures and Algorithms).
+
+## Why I love Technology (and writing about it!)
 - I’m a tech-enthusiast, especially when it comes to Real Estate technology
 
     - I thrive on an environment that allows me to learn new things
