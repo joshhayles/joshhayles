@@ -36,8 +36,8 @@ As a Solutions Engineer II at Datadog, I specialize in Containers and Cloud. I h
        - Educating clients and the public about the market, technology, and trends
        - Creating memorable and pleasant experiences for my clients in a variety of ways
 
-## [Tax Corrector](https://www.taxcorrector.com) - Tax Corrector is a website I built that helps homeowners reduce their property taxes
-I currently have hundreds of paying customers using this service each year. 
+## [Tax Corrector](https://www.taxcorrector.com)
+Tax Corrector is a website I built that helps homeowners reduce their property taxes. I currently have hundreds of paying customers using this service each year. 
 
 - Engineered and deployed (AWS Fargate) a scalable web application using Django, JavaScript, HTML, and CSS that processes hundreds of annual property tax protest reports, featuring automated evaluation forms and secure payment processing (Stripe)
 - Implemented data-driven algorithms (taken from my experience in Real Estate) along with a responsive UI/UX design, high quality PDF reports that result in an average of a 12% - 20% reduction for customers, and a 90% success rate
