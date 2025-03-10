@@ -6,6 +6,8 @@
 
 🔗 [AWS Cloud Practitioner Certification](https://www.credly.com/badges/64aa49f6-67db-403d-967f-c34014a286c8/public_url)
 
+🔗 [Tax Corrector](https://www.taxcorrector.com)
+
 🔗 [MyTechnicalWriting](https://staycurious.io/lists)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/joshhayles/)
@@ -34,11 +36,12 @@ As a Solutions Engineer II at Datadog, I specialize in Containers and Cloud. I h
        - Educating clients and the public about the market, technology, and trends
        - Creating memorable and pleasant experiences for my clients in a variety of ways
 
-## Tax Corrector - the website I built that helps homeowners lower their property taxes
-Tax Corrector is a website I built that helps homeowners lower their property taxes. I currently have hundreds of paying customers using this service each year. 
+## [Tax Corrector](https://www.taxcorrector.com) - Tax Corrector is a website I built that helps homeowners lower their property taxes
+I currently have hundreds of paying customers using this service each year. 
 
 - Engineered and deployed (AWS Fargate) a scalable web application using Django, JavaScript, HTML, and CSS that processes hundreds of annual property tax protest reports, featuring automated evaluation forms and secure payment processing (Stripe)
 - Implemented data-driven algorithms (taken from my experience in Real Estate) along with a responsive UI/UX design, high quality PDF reports that result in an average of a 12% - 20% reduction for customers, and a 90% success rate
+- Backend: Django, postgres, celery, Mailchimp API, AWS SQS, S3, ECS Fargate and Docker for deployment
 
 ## My Software Engineer Background with Flatiron
 At Flatiron, I learned a variety of technology and put in 50 to 60 hours of work per week into their program for roughly 4 months
