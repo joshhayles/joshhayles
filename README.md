@@ -36,12 +36,16 @@ As a Solutions Engineer II at Datadog, I specialize in Containers and Cloud. I h
        - Educating clients and the public about the market, technology, and trends
        - Creating memorable and pleasant experiences for my clients in a variety of ways
 
-## [Tax Corrector](https://www.taxcorrector.com) - Tax Corrector is a website I built that helps homeowners lower their property taxes
+## [Tax Corrector](https://www.taxcorrector.com) - Tax Corrector is a website I built that helps homeowners reduce their property taxes
 I currently have hundreds of paying customers using this service each year. 
 
 - Engineered and deployed (AWS Fargate) a scalable web application using Django, JavaScript, HTML, and CSS that processes hundreds of annual property tax protest reports, featuring automated evaluation forms and secure payment processing (Stripe)
 - Implemented data-driven algorithms (taken from my experience in Real Estate) along with a responsive UI/UX design, high quality PDF reports that result in an average of a 12% - 20% reduction for customers, and a 90% success rate
-- Backend: Django, postgres, celery, Mailchimp API, AWS SQS, S3, ECS Fargate and Docker for deployment
+- Backend Tech: Django, postgres, celery, Mailchimp API, AWS SQS, S3, ECS Fargate and Docker for deployment
+- Backend Flow: Stripe checkout → EventBridge → AWS SQS queue (also has a dead-letter-queue for failures) → Lambda → Mailchimp API + Django database updated
+
+This architecture separates the concerns of event ingestion (EventBridge), buffering queue (SQS), processing (Lambda), and failure handling (Dead Letter Queue). This separation makes the system more resilient because a problem in one component doesn't immediately break the entire flow.
+The SQS queue serves as a buffer that decouples the event source (Stripe/EventBridge) from my processing logic (Lambda). 
 
 ## My Software Engineer Background with Flatiron
 At Flatiron, I learned a variety of technology and put in 50 to 60 hours of work per week into their program for roughly 4 months
