@@ -6,7 +6,7 @@
 
 🔗 [AWS Cloud Practitioner Certification](https://www.credly.com/badges/64aa49f6-67db-403d-967f-c34014a286c8/public_url)
 
-🔗 [Tax Corrector](https://www.taxcorrector.com)
+🔗 [Tax Corrector (Product)](https://www.taxcorrector.com)
 
 🔗 [MyTechnicalWriting](https://staycurious.io/lists)
 
