@@ -75,7 +75,7 @@ Since then, I have focused on improving my Web Development skills using: JavaScr
     - Collaborating with the team and communicating effectively is important to me.
 
 
-- Passionate, Hard Work (with a never-ending appetite for learning and improvement)  ⛑️ 
+- Passionately Curious (with a never-ending appetite for learning and improvement)  ⛑️ 
     - Working hard is something that came natural to me in Real Estate because I loved everything about it. That same passion is applied to tech and entrepreneurial services that improve the user’s experience 
     
     - I’m currently studying Cloud Technologies, Containers (Kubernetes, Docker), and advanced troubleshooting on a daily basis at Datadog
