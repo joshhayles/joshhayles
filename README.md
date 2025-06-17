@@ -1,99 +1,150 @@
+# Josh Hayles | Knowledge as Infrastructure (KaI) and KaI-Ops Architect
 
-# 🙋‍♂️   Meet Josh Hayles  |  Solutions Engineer II @ Datadog | #kubernetes #AWS #technicalWriting #WebDevelopment
-> **My greatest ability is the desire to learn.**
+**Solutions Engineer II @ Datadog** | Containers and Cloud | Pioneering Knowledge as Infrastructure _(KaI, pronounced "k-eye")_ Methodology and KaI-Ops Engineering Discipline
 
-## Links
+`#systems-thinking` `#knowledge-as-infrastructure` `#kubernetes` `#information-architecture`
 
-🔗 [AWS Cloud Practitioner Certification](https://www.credly.com/badges/64aa49f6-67db-403d-967f-c34014a286c8/public_url)
+## Connect and Explore
 
-🔗 [Tax Corrector (Product)](https://www.taxcorrector.com)
+**🌐 [Knowledge as Infrastructure (KaI)](https://knowledgeasinfrastructure.com)** - KaI _(pronouned "k-eye")_ and KaI-Ops Methodology Platform | Technical Writing and Documentation 
+**💼 [Tax Corrector](https://www.taxcorrector.com)** - Where homeowners can reduce their Property Taxes—_Infrastructure Thinking Applied to Real Estate_
+**🏆 [AWS Certification](https://www.credly.com/badges/64aa49f6-67db-403d-967f-c34014a286c8/public_url)** - Cloud Infrastructure Foundation  
+**💼 [LinkedIn](https://www.linkedin.com/in/joshhayles/)** - Come say Hi!
 
-🔗 [MyTechnicalWriting](https://staycurious.io/lists)
+---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/joshhayles/)
+## My Approach: I See the Big Picture AND the Details
 
+I'm naturally curious about the **"why"** behind how things work. Instead of just learning twenty different technologies on the surface, I'd rather deeply understand the foundational principles of one or two - like really mastering Kubernetes networking rather than knowing a little bit about everything.
 
-## A little about me
+**What drives me**: Taking fragmented, overwhelming technical information and organizing it into clear, connected systems that actually help people get things done - whether that's for myself, my teammates, or entire organizations.
 
-After 15 years of experience building and running my own Real Estate business, I have significant skills regarding customer service, the user experience (both, online via product use, as well as in-person communication with people), and I love building systems and processes that create efficiency. 
+I spot patterns in chaos. I build useful connections from scattered pieces. I create systems that don't just work for me, but help others solve similar problems.
 
-Combining my business and customer skillset with my "stay curious" approach to technology is what allowed me to build my passion project called Tax Corrector, which is a website that helps homeowners reduce their property taxes (more info below).
+---
 
-As a Solutions Engineer II at Datadog, I specialize in Containers and Cloud. I help customers integrate the Datadog Agent into their container environments (Kubernetes, EC2, Fargate, AWS, VMs, etc) to collect their Logs, Metrics, Traces, custom metrics, and more. I'm always challenging myself to deepen my knowledge and expertise in these areas, strengthening my skills in the Datadog product, and diving deep into complex issues.
+## Current Role: Solutions Engineer II @ Datadog
 
-## My Background
-15 years of experience in Real Estate, where I created a six-figure business that I ran by myself.
-  
-  - I learned Entrepreneurship skills that taught me all aspects of business:
-       - Customer Service
-       - Customer-Centric Approach
-       - Community Involvement (Home ownership affordability, helping homeowners lower property taxes)
-       - Customer Interaction with hands-on communication methods, and automating systems for efficiency and accuracy 
-       - Developing Business Plans Customized to my Client’s needs
-       - Strong Written and Verbal Communication Skills (Real estate newsletters, Blogs, Neighborhood Analysis, etc)
-       - Product and Technology Research that benefited my clients and business needs
-       - Teamwork collaboration with a variety of parties involved in each transaction that required custom communication methods
-       - Educating clients and the public about the market, technology, and trends
-       - Creating memorable and pleasant experiences for my clients in a variety of ways
+**Specializing in Containers and Cloud environments**
 
-## [Tax Corrector](https://www.taxcorrector.com)
-Tax Corrector is a website I built that helps homeowners reduce their property taxes. I currently have hundreds of paying customers using this service each year. 
+**Focus:** Help customers integrate Datadog Agent into complex environments—Kubernetes, EC2, Fargate, AWS, VMs
 
-- Engineered and deployed (AWS Fargate) a scalable web application using Django, JavaScript, HTML, and CSS that processes hundreds of annual property tax protest reports, featuring automated evaluation forms and secure payment processing (Stripe)
-- Implemented data-driven algorithms (taken from my experience in Real Estate) along with a responsive UI/UX design, high quality PDF reports that result in an average of a 12% - 20% reduction for customers, and a 90% success rate
-- Backend Tech: Django, postgres, celery, Mailchimp API, AWS SQS, S3, ECS Fargate and Docker for deployment
-- Backend Flow: Stripe checkout → EventBridge → AWS SQS queue (also has a dead-letter-queue for failures) → Lambda → Mailchimp API + Django database updated
+**Daily Work:** Troubleshoot container deployments, configure log/metric/trace collection, solve customer-specific integration challenges
 
-This architecture separates the concerns of event ingestion (EventBridge), buffering queue (SQS), processing (Lambda), and failure handling (Dead Letter Queue). This separation makes the system more resilient because a problem in one component doesn't immediately break the entire flow.
-The SQS queue serves as a buffer that decouples the event source (Stripe/EventBridge) from my processing logic (Lambda). 
+**Technical Expertise:** Kubernetes networking, AWS container services (ECS, Fargate), Docker orchestration, distributed system observability
 
-## My Software Engineer Background with Flatiron
-At Flatiron, I learned a variety of technology and put in 50 to 60 hours of work per week into their program for roughly 4 months
+**KaI Integration:** Applying Knowledge as Infrastructure principles to customer troubleshooting—systematically capturing solution patterns, building reusable debugging frameworks, tracking resolution effectiveness
 
-The overall technology was focused on full stack development. I learned Javascript (in its raw form first), then React for the framework. For the backend we learned Ruby / Rails.
+**Approach:** I naturally gravitate toward understanding the why behind integration issues rather than just applying quick fixes—this debugging approach helps customers build more reliable monitoring setups and often reveals broader infrastructure improvements.
 
-Since then, I have focused on improving my Web Development skills using: JavaScript (Pure / Vanilla), advanced JavaScript, CSS / Styling and Prototyping, Svelte/Sveltekit, Node.js, and solving DSAs (Data Structures and Algorithms).
+---
 
-## Why I love Technology (and writing about it!)
-- I’m a tech-enthusiast, especially when it comes to Real Estate technology
+## 🚀 My Big Project: Knowledge as Infrastructure (KaI)
 
-    - I thrive on an environment that allows me to learn new things
-    
-    - I love creativity and having the ability to constantly make improvements
-    
-    - I love to combine my business skills with technology to solve problems for homeowners
-    
-    
-## What I Bring to the Table
-- Team Player  👊 
-    - I love working with people who are eager to learn, creative, and love to talk about technology
-    
-    - Whatever needs to be done to help the team, I’m all-in.
+**Here's the problem:** We build production systems with incredible engineering rigor - monitoring, automation, version control, systematic operations. But our most valuable asset - our collective knowledge - exists as scattered notes, forgotten bookmarks, and tribal wisdom that disappears when people leave.
 
-    - Innovative ideas for improving / creating products and services to benefit the team’s goals.
+**What I'm building:** _Knowledge as Infrastructure (KaI, pronounced "k-eye")_ - applying the same engineering discipline to knowledge that we do to our production systems. Instead of information chaos, we get queryable knowledge. Instead of solving the same problems repeatedly, we build on what came before.
 
-    - Collaborating with the team and communicating effectively is important to me.
+**The vision:** What if your knowledge worked like your code? Versioned, connected, and designed to compound over time.
 
+### The Universal Knowledge Problem
 
-- Passionately Curious (with a never-ending appetite for learning and improvement)  ⛑️ 
-    - Working hard is something that came natural to me in Real Estate because I loved everything about it. That same passion is applied to tech and entrepreneurial services that improve the user’s experience 
-    
-    - I’m currently studying Cloud Technologies, Containers (Kubernetes, Docker), and advanced troubleshooting on a daily basis at Datadog
-    
-    - I’m not only capable of learning any technology that’s needed for the job, I’m excited to do so!
+We wouldn't run production systems without monitoring, version control, or systematic operations. Yet our collective knowledge lacks the same engineering rigor:
 
+- **Documentation Graveyards**: Static information dumps instead of connected, queryable infrastructure
+- **Knowledge Silos**: Solutions trapped in individual minds and scattered tools
+- **No Observability**: We can't see knowledge gaps or track how expertise flows
+- **Uncaptured Assets**: Thousands of hours solving problems, but solutions don't persist for the next person
 
-- Understanding Product Features | User Benefits | User Experience (really well)  🤗 
-    - I’m great at researching a product, getting feedback from customers, documenting that feedback, putting together a report to analyze that information, and making suggestions on what’s best for the product and customer’s experience
-    
-    - I’m also great at coming up with creative and innovative ideas for new products / services (especially Real Estate, Investing, Homeownership, and Finance)
-    
-        - Example: I created a publication called “Inside the Mind of the Buyer” that taught Homeowners how to think like a buyer before they put their home on the market. When you list your home and you’re asking someone to pay a price for it you’re now in the presentation game. Your home is open to public opinion, and you have to care about every detail because that’s what the buyer is thinking as they walk through your home:
-        
-            - I had to understand everything about my client’s goals and create a custom plan that fit their needs, desires, timelines, communication preferences, their expectations, etc.
-            
-            - I anticipated areas of concern, objections they would likely have and I created custom plans to make sure there weren’t any holes that needed to be plugged in my process:
-            
-                - Example: I created an estimated proceeds sheet called provides a breakdown of all the costs associated to the seller when they sell their home, and an estimated “walk away” amount to give them an idea of how much money they’ll get at the closing table. I was within $500.00 accuracy with this approach (it was reliable and predictable)
-                
-                - I presented this at our initial meeting because I knew it would help them make an informed decision about selling.
+**The AI Opportunity**: AI tools are only as powerful as the structured context you give them. Organized knowledge becomes high-octane fuel for AI collaboration.
+
+### What I'm Building
+
+**Current Focus (2025—and beyond)**: Proving KaI methodology works by applying it to my own Go programming learning journey. I'm documenting everything - the process, the results, the measurable improvements in learning velocity and knowledge retention.
+
+**Early Results**: Using KaI approaches to systematically connect Docker networking knowledge to Kubernetes concepts, reducing typical learning curve from months to weeks.
+
+**Technical Vision**: KaI CLI that treats knowledge like infrastructure - queryable, connected, persistent. Think "git for your expertise" combined with "infrastructure as code for learning."
+
+**Real Impact Already Happening**:
+- **For Developers**: Your Docker solution from 6 months ago automatically connects to today's Kubernetes challenge
+- **For Teams**: Debugging sequences and solutions persist beyond individual tenure
+- **For Organizations**: Customer insights flow systematically between engineering, sales, and support
+
+### Current Technical Progress
+
+**KaI Methodology**: Three-component pipeline (PRO System → DEEP Learning → KaI Infrastructure) being validated through real Go programming projects
+
+**Platform Development**: Building knowledgeasinfrastructure.com as both methodology hub and live demonstration of KaI principles
+
+**Business Validation**: Applying KaI approaches to Datadog troubleshooting workflows, tracking improvements in resolution time and knowledge transfer
+
+**Long-term Goal**: Establish KaI-Ops as recognized engineering discipline - the "DevOps for knowledge work."
+
+---
+
+## What I've Built: Tax Corrector
+
+**[Tax Corrector](https://www.taxcorrector.com) - Helping Homeowners Reduce their Property Taxes**
+
+*How infrastructure thinking helped build the website that homeowners love*
+
+**The Challenge**: The property tax assessment process is fragmented, complex, and overwhelming for homeowners 
+
+**The Solution**: The Tax Corrector website consistently delivers **12-20% tax reductions** with 90% success rate for homeowners
+
+**Infrastructure Approach**:
+- **Data-driven algorithms** based on 15 years of real estate pattern recognition
+- **Resilient architecture** (Django + AWS Fargate + SQS + Lambda) that separates concerns, and delivers custom PDF reports in real-time for users
+- **Hundreds of paying customers** using the site each year flawlessly
+
+**Technical Architecture**: Event-driven system using Stripe → EventBridge → SQS → Lambda → Postgres. Demonstrates infrastructure thinking applied to business automation: separation of concerns, failure handling, and scalable processing pipelines.
+
+---
+
+## Where This All Started: Real Estate Systems
+
+**15 Years Running My Own Real Estate Business**
+
+Running a real estate business taught me to see **systems everywhere**. While other agents focused on individual transactions, I built processes that made everything more predictable and efficient:
+
+- **Customer Experience**: Created step-by-step approaches for complex and fragmented home sales experiences that kept a client-centric mindset
+- **"Inside the Mind of the Buyer"**: Developed a methodology (and newsletter) that helped sellers understand exactly what buyers were thinking—consistently improved outcomes
+- **Accurate Cost Estimates**: Built tools that predicted seller costs within $500— far better than industry standard tools
+- **Scaling Under Pressure**: Turned high-volume client work into opportunities to improve systems and future marketing
+
+*This is where I learned that good systems don't just work—they make everything else easier.*
+
+---
+
+## Technical Foundation
+
+### Full-Stack Development from Flatiron
+**Flatiron School** (4 months, 50-60 hours/week): JavaScript, React, Ruby/Rails  
+
+**Continuous Learning**: Advanced JavaScript, Node.js, CSS architecture, data structures & algorithms
+
+*Technical skills serve systematic thinking - not the other way around.*
+
+---
+
+## What I Bring to Teams
+
+### I See How Things Connect
+- I naturally see both the individual pieces AND how they fit together
+- I'm good at taking messy, complex problems and turning them into clear, manageable solutions  
+- I create frameworks that help whole teams tackle similar challenges
+
+### I Build Things That Last
+- I focus on understanding the fundamentals rather than just quick fixes
+- I build solutions that actually scale and get better over time, not ones that break under pressure
+- I balance getting things done quickly with thinking ahead - "ready to ship and impress" but also built to last
+
+### I Learn Systematically and Share It
+- I learn by combining theory, hands-on building, and real-world application (not just tutorials or theory by itself)
+- I create reusable patterns and approaches that speed up team learning
+- I turn individual insights into things the whole team can use
+
+---
+
+*Please feel free to reach out and connect!*
