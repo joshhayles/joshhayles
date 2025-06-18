@@ -6,6 +6,8 @@
 
 _KaI (pronounced "k-eye") is an **engineering discipline** for transforming fragmented information into connected, compounding knowledge—at the level of individuals, teams, and organizations._
 
+---
+
 ### **The Universal Knowledge Problem**
 
 We build our production systems with resilience, observability, and automation. Yet our most valuable asset—our collective knowledge—lacks the same systematic approach, existing instead as fragmented information across tools and minds.
@@ -29,6 +31,8 @@ As a Solutions Engineer II at Datadog, I live in the world of complex distribute
 We wouldn't run production systems without monitoring, version control, or systematic operations. We should do the same for our knowledge systems.
 
 **But the problem isn't the information or the tools. The problem is that we're missing the infrastructure to connect it.**
+
+---
 
 ### **What is Knowledge as Infrastructure (KaI)?**
 
@@ -79,6 +83,8 @@ Those who build knowledge infrastructure now will have decisive advantages as th
 | **Scalability** | Degrades from information dam | **Scales systematically with size** |
 
 When knowledge has structure, powerful capabilities become possible that scattered notes and bookmarks simply can't deliver.
+
+---
 
 ### **How KaI Works: The Three-Component Pipeline**
 
@@ -199,6 +205,8 @@ With the technical foundation established, the true power of KaI lies in its uni
 **KaI-for-AI:** Provide the essential, _structured context_ that transforms AI from a smart collaborator into a brilliant teammate
 
 This enables the collaborative knowledge ecosystem where insights flow seamlessly from individual learning to industry-wide innovation. Each application builds on the same foundation while unlocking increasingly sophisticated capabilities.
+
+---
 
 ### **KaI in Action: Examples**
 
@@ -374,6 +382,8 @@ kai market-positioning synthesis --domain authentication-infrastructure
 
 **The transformation:** Customer challenges become cross-departmental competitive advantages through methodical analysis. Strategic decisions leverage institutional intelligence with confidence metrics. Hidden patterns across departments reveal million-dollar opportunities that would never surface through traditional siloed approaches. The organization moves from reactive problem-solving to proactive market advantage creation.
 
+---
+
 ### **The KaI-Ops Engineering Discipline**
 
 #### **The DevOps Parallel**
@@ -398,6 +408,8 @@ Some examples:
 - **Measurable Outcomes**: Quantified improvements in knowledge work efficiency and business impact
 - **Technical Infrastructure**: Engineering-grade tools treating knowledge as valuable infrastructure
 - **Business Value**: Clear ROI through improved productivity, collaboration, and competitive advantage
+
+---
 
 ### **KaI-Hub—The Platform Vision**
 
@@ -427,6 +439,8 @@ Finally, _industry transformation_ enables technical industries to collaborate o
 The advantage isn't better documentation or fancy search—it's faster discovery, connection, and application. Once your knowledge has structure, powerful things become possible.
 
 Let's go.
+
+---
 
 ### **About the Author**
 
