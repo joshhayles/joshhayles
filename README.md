@@ -446,11 +446,7 @@ Let's go.
 
 I'm Josh Hayles—creator of Knowledge as Infrastructure (KaI) and the KaI-Ops engineering discipline. 
 
-As a Solutions Engineer II at Datadog, I live in the world of complex distributed systems. I saw how we applied incredible rigor to our production infrastructure—monitoring, automation, declarative state—while our collective *knowledge* was left scattered. 
-
-I realized this wasn't a documentation problem—**it was an infrastructure problem.** 
-
-KaI is the application of proven engineering principles to our most critical asset: our collective ability to solve problems.
+I'm also the creator of [Tax Corrector](https://www.taxcorrector.com/)—a service where homeowners can purchase a custom report to help them lower their property taxes. The idea for Tax Corrector was born from my 15 years in real estate, during which I noticed a lack of comprehensive resources to help homeowners access the high-quality information they need to avoid inflated property values that can cost them thousands of dollars each year.
 
 I hope others will join this emerging engineering discipline that treats knowledge as crucial infrastructure for the future.
 
