@@ -1,3 +1,9 @@
+<style>
+h2 {
+  border-bottom: none !important;
+}
+</style>
+
 # What If Knowledge Worked Like Code?
 
 ## The Knowledge as Infrastructure (KaI) Manifesto
