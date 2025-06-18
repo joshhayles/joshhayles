@@ -1,22 +1,3 @@
-# **About Josh Hayles**
-
-I'm Josh Hayles—creator of Knowledge as Infrastructure (KaI) _(pronounced "k-eye")_ and the KaI-Ops engineering discipline. 
-
-As a Solutions Engineer II at Datadog, I live in the world of complex distributed systems. I saw how we applied incredible rigor to our production infrastructure—monitoring, automation, declarative state—while our collective *knowledge* was left scattered. 
-
-I realized this wasn't a documentation problem—**it was an infrastructure problem.** 
-
-KaI is the application of proven engineering principles to our most critical asset: our collective ability to solve problems.
-
-I hope others will join this emerging engineering discipline that treats knowledge as crucial infrastructure for the future.
-
-### **Connect with Me**
-
-Join me building the future of knowledge work:
-
-• **Explore the methodology (Site Coming Soon):** [knowledgeasinfrastructure.com](https://knowledgeasinfrastructure.com)  
-• **Follow the journey:** [Josh Hayles on LinkedIn](https://linkedin.com/in/joshhayles)  
-
 # What If Knowledge Worked Like Code?
 
 ## The Knowledge as Infrastructure (KaI) Manifesto
@@ -33,7 +14,11 @@ We build our production systems with resilience, observability, and automation. 
 
 _The individual dev's pain becomes the team's pain which becomes the company's pain._
 
-This isn't an information problem—it's an infrastructure problem:
+This isn't an information problem—it's an infrastructure problem.
+
+I'm Josh Hayles—creator of Knowledge as Infrastructure (KaI) _(pronounced "k-eye")_ and the KaI-Ops engineering discipline. 
+
+As a Solutions Engineer II at Datadog, I live in the world of complex distributed systems. I saw how we applied incredible rigor to our production infrastructure—monitoring, automation, declarative state—while our collective *knowledge* was left scattered:
 
 - **Documentation Graveyards**: We bury docs under tremendous amounts of static information instead of building infrastructure around solutions. 
 - **Brittle Knowledge:** Like code without tests, individual understanding is fragile and breaks under the pressure of the "information dam".
