@@ -19,9 +19,9 @@ Join me building the future of knowledge work:
 
 ---
 
-# What If Knowledge Worked Like Code?
+### What If Knowledge Worked Like Code?
 
-## The Knowledge as Infrastructure (KaI) Manifesto
+### The Knowledge as Infrastructure (KaI) Manifesto
 
 *The Manifesto for Treating Knowledge as an Engineering Discipline*
 
