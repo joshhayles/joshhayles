@@ -17,19 +17,13 @@ Join me building the future of knowledge work:
 • **Explore the methodology (Site Coming Soon):** [knowledgeasinfrastructure.com](https://knowledgeasinfrastructure.com)  
 • **Follow the journey:** [Josh Hayles on LinkedIn](https://linkedin.com/in/joshhayles)  
 
----
+# What If Knowledge Worked Like Code?
 
-### What If Knowledge Worked Like Code?
-
-### The Knowledge as Infrastructure (KaI) Manifesto
+## The Knowledge as Infrastructure (KaI) Manifesto
 
 *The Manifesto for Treating Knowledge as an Engineering Discipline*
 
----
-
 _KaI (pronounced "k-eye") is an **engineering discipline** for transforming fragmented information into connected, compounding knowledge—at the level of individuals, teams, and organizations._
-
----
 
 ## **The Universal Knowledge Problem**
 
