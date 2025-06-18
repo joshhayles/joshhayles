@@ -1,18 +1,12 @@
-<style>
-h2 {
-  border-bottom: none !important;
-}
-</style>
-
 # What If Knowledge Worked Like Code?
 
-## The Knowledge as Infrastructure (KaI) Manifesto
+### The Knowledge as Infrastructure (KaI) Manifesto
 
 *The Manifesto for Treating Knowledge as an Engineering Discipline*
 
 _KaI (pronounced "k-eye") is an **engineering discipline** for transforming fragmented information into connected, compounding knowledge—at the level of individuals, teams, and organizations._
 
-## **The Universal Knowledge Problem**
+### **The Universal Knowledge Problem**
 
 We build our production systems with resilience, observability, and automation. Yet our most valuable asset—our collective knowledge—lacks the same systematic approach, existing instead as fragmented information across tools and minds.
 
@@ -36,9 +30,9 @@ We wouldn't run production systems without monitoring, version control, or syste
 
 **But the problem isn't the information or the tools. The problem is that we're missing the infrastructure to connect it.**
 
-## **What is Knowledge as Infrastructure (KaI)?**
+### **What is Knowledge as Infrastructure (KaI)?**
 
-### **The Paradigm Shift**
+#### **The Paradigm Shift**
 
 We've revolutionized software infrastructure with containers, orchestration, and systematic operations.
 
@@ -59,7 +53,7 @@ This allows us to build an ecosystem that makes knowledge:
 - **Collaborative** between individuals and teams
 - **Persistent** beyond individual memory or tenure
 
-### **The Perfect Storm**
+#### **The Perfect Storm**
 
 Three forces have converged to make KaI not just possible, but essential:
 
@@ -71,7 +65,7 @@ Three forces have converged to make KaI not just possible, but essential:
 
 Those who build knowledge infrastructure now will have decisive advantages as these trends accelerate.
 
-### KaI vs Traditional Knowledge Management
+#### KaI vs Traditional Knowledge Management
 
 | Aspect | Traditional Knowledge Management | Knowledge as Infrastructure (KaI) |
 |--------|----------------------------------|----------------------------|
@@ -86,13 +80,13 @@ Those who build knowledge infrastructure now will have decisive advantages as th
 
 When knowledge has structure, powerful capabilities become possible that scattered notes and bookmarks simply can't deliver.
 
-## **How KaI Works: The Three-Component Pipeline**
+### **How KaI Works: The Three-Component Pipeline**
 
 Knowledge as Infrastructure (KaI) operates through three integrated components that transform raw information into strategic advantage.
 
 Each component feeds into the next, creating a knowledge transformation pipeline that provides control over information chaos—transforming information overload into strategic competitive advantages across individual, team, and enterprise contexts:
 
-### **Component 1: PRO System - Project-Centered Knowledge Extraction**
+#### **Component 1: PRO System - Project-Centered Knowledge Extraction**
 *Intelligent filtering that aligns information architecture with clear intent*
 
 The PRO System serves as the **intake valve**—allowing you to control what enters your knowledge infrastructure through the following flow:
@@ -107,7 +101,7 @@ The PRO system rewards **focused attention over random information collection** 
 
 **↓ Feeds into Component 2 ↓**
 
-### **Component 2: DEEP Methodology - Diligent Expertise Development**
+#### **Component 2: DEEP Methodology - Diligent Expertise Development**
 
 _Building connected understanding from captured insights_
 
@@ -125,7 +119,7 @@ DEEP is rigorous work that demands focused effort and methodical thinking—but 
 
 **↓ Becomes infrastructure through Component 3 ↓**
 
-### **Component 3: KaI Infrastructure - The Tangible Outcome**
+#### **Component 3: KaI Infrastructure - The Tangible Outcome**
 *The technical implementation that transforms static information into tangible, intelligent, connected systems*
 
 **KaI CLI - The Interface for Knowledge Infrastructure**
@@ -192,7 +186,7 @@ Built on infrastructure-native technologies (Go, Kubernetes, PostgreSQL, Neo4j),
 ✅ Share structured understanding with teammates seamlessly  
 ✅ Build collective intelligence that persists beyond individuals
 
-## **Universal Applications: KaI at Every Scale**
+### **Universal Applications: KaI at Every Scale**
 
 With the technical foundation established, the true power of KaI lies in its universal applicability. The same core principles can be applied to solve distinct, high-value problems at every scale:
 
@@ -206,9 +200,9 @@ With the technical foundation established, the true power of KaI lies in its uni
 
 This enables the collaborative knowledge ecosystem where insights flow seamlessly from individual learning to industry-wide innovation. Each application builds on the same foundation while unlocking increasingly sophisticated capabilities.
 
-## **KaI in Action: Examples**
+### **KaI in Action: Examples**
 
-### **KaI-for-devs: Methodical Proficiency**
+#### **KaI-for-devs: Methodical Proficiency**
 
 Consider learning Kubernetes as a real-world example. Instead of bouncing between scattered notes and resources or losing context when switching projects, KaI enables structured expertise from your terminal:
 
@@ -261,7 +255,7 @@ kai milestone "Built production K8s cluster with custom networking"
 
 **The transformation:** KaI remembers your exact Docker debugging commands from 6 months ago. It links to your actual project files where you solved similar problems. It connects learning patterns across domains and provides context-aware help exactly when you need it.
 
-### **KaI-for-teams: Collaborative Intelligence + Documentation Infrastructure**
+#### **KaI-for-teams: Collaborative Intelligence + Documentation Infrastructure**
 
 Teams using KaI transform scattered expertise into persistent team capabilities that survive member changes and accelerate collective problem-solving:
 
@@ -313,7 +307,7 @@ kai connect --doc authentication-setup-guide --incident oauth-production-failure
 
 **The transformation:** Team incidents become reusable playbooks that prevent future issues. Documentation transforms from static files into dynamic infrastructure that tracks effectiveness and self-improves. New hires connect immediately with team expertise and contribute faster. Critical knowledge persists beyond individual team members.
 
-### **KaI-for-orgs: Enterprise Intelligence**
+#### **KaI-for-orgs: Enterprise Intelligence**
 
 Organizations using KaI transform disconnected departments into collaborative intelligence networks that drive competitive advantages:
 
@@ -380,9 +374,9 @@ kai market-positioning synthesis --domain authentication-infrastructure
 
 **The transformation:** Customer challenges become cross-departmental competitive advantages through methodical analysis. Strategic decisions leverage institutional intelligence with confidence metrics. Hidden patterns across departments reveal million-dollar opportunities that would never surface through traditional siloed approaches. The organization moves from reactive problem-solving to proactive market advantage creation.
 
-## **The KaI-Ops Engineering Discipline**
+### **The KaI-Ops Engineering Discipline**
 
-### **The DevOps Parallel**
+#### **The DevOps Parallel**
 
 Just as DevOps emerged to bridge the gap between software development and operations—giving rise to new roles, practices, and entire platforms—_KaI-Ops bridges the gap between knowledge creation and its operational impact._
 
@@ -390,7 +384,7 @@ Just as DevOps emerged to bridge the gap between software development and operat
 
 **KaI-Ops Evolution (2025-2035):** Starts as "Knowledge + Operations," becomes standard practices, creates "KaI-Ops Engineer" job category, organizations will have KaI-Ops teams managing knowledge infrastructure.
 
-### **What KaI-Ops Engineers Do**
+#### **What KaI-Ops Engineers Do**
 **KaI-Ops Engineers** apply principles of reliability, observability, and automation to an organization's knowledge systems. **They are the Site Reliability Engineers (SREs) for institutional intelligence.** Their mission is to ensure that collective knowledge is available, reliable, scalable, and secure.
 
 Some examples:
@@ -399,15 +393,15 @@ Some examples:
 - Create tools and automation for intelligent documentation and collaborative learning
 - Transform scattered information into queryable, connected intelligence that drives business value
 
-### **Why This Becomes a New Engineering Discipline**
+#### **Why This Becomes a New Engineering Discipline**
 - **Repeatable Methodology**: Consistent practices that work across contexts and scale
 - **Measurable Outcomes**: Quantified improvements in knowledge work efficiency and business impact
 - **Technical Infrastructure**: Engineering-grade tools treating knowledge as valuable infrastructure
 - **Business Value**: Clear ROI through improved productivity, collaboration, and competitive advantage
 
-## **KaI-Hub—The Platform Vision**
+### **KaI-Hub—The Platform Vision**
 
-### **The GitHub-for-Knowledge Infrastructure**
+#### **The GitHub-for-Knowledge Infrastructure**
 
 KaI-Hub represents the collaborative future—a platform where knowledge flows seamlessly from individual learning to team collaboration to enterprise intelligence to industry advancement.
 
@@ -420,7 +414,7 @@ Just as GitHub transformed software development from isolated coding to collabor
 
 **Result:** All teams develop superior experiences faster than any could achieve alone, while maintaining competitive advantages through superior infrastructure rather than using scattered information.
 
-### **The Transformation Across All Scales**
+#### **The Transformation Across All Scales**
 
 This vision encompasses _individual transformation_ where every technical professional has access to knowledge infrastructure that accelerates learning by connecting previouly hidden insights.
 
@@ -434,7 +428,7 @@ The advantage isn't better documentation or fancy search—it's faster discovery
 
 Let's go.
 
-## **About the Author**
+### **About the Author**
 
 I'm Josh Hayles—creator of Knowledge as Infrastructure (KaI) and the KaI-Ops engineering discipline. 
 
@@ -446,7 +440,7 @@ KaI is the application of proven engineering principles to our most critical ass
 
 I hope others will join this emerging engineering discipline that treats knowledge as crucial infrastructure for the future.
 
-### **Connect with the Community**
+#### **Connect with the Community**
 
 Join the community building the future of knowledge work:
 
