@@ -6,7 +6,7 @@ I'm the founder of Tax Corrector, a Django-based property tax analysis platform 
 
 Here's what I've discovered about myself through this journey: I'm that person who can't help but ask "but *why* does it work that way?" I thrive on architectural thinking that builds bridges from chaos to interconnected systems. I'm naturally drawn to foundational principles that I can apply across domains because understanding the "why" unlocks so much more than memorizing the "how."
 
-I gravitate toward depth over breadth—I'd rather gain proficiency in the underlying patterns of cloud architecture (Kubernetes networking, AWS event-driven services), web development (Django ORM optimization, PostgreSQL indexing), and my specific domain algorithms (Python web crawlers, Property Reports optimization) than superficially know multiple frameworks.
+I gravitate toward depth over breadth—preferring to gain proficiency in the foundational patterns of cloud architecture (like Kubernetes networking and AWS event-driven services), web development (such as Django ORM optimization and PostgreSQL indexing), and domain-specific algorithms (including Python web crawlers and Property Report optimizations) to build thicker, more resilient foundations.
 
 I'm a firm believer in spending time upfront building infrastructure that scales and compounds—even when it feels like "extra work" initially. **What excites me about web development is how seemingly scattered technologies come together to build something useful.** Django's MTV pattern, PostgreSQL's advanced indexing, AWS's event-driven services, JavaScript, CSS, and HTMX's progressive enhancement create a holistic system that makes sense. I see the forest **and** the trees, then I see the connections between them.
 
