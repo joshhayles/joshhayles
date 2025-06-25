@@ -39,3 +39,5 @@ That's what keeps me motivated.
 Stay curious and keep digging.
 
 -- Josh
+
+[Follow me on LinkedIn](https://www.linkedin.com/in/joshhayles/)
