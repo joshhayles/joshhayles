@@ -2,7 +2,7 @@
 
 Solutions Engineer II @ Datadog | Specializing in containers, Kubernetes, and cloud observability. My daily work with infrastructure, observability, cloud and containers led me to explore how those same core principles could improve how _domain-specific knowledge_ is captured and managed—and I'm applying it to my Tax Corrector product.
 
-I'm the founder of Tax Corrector, a Django-based property tax analysis platform that helps Texas homeowners challenge unfair assessments and save thousands on property taxes. With an 87% conversion rate, Tax Corrector transforms complex real estate market analysis into a personalized and custom _Property Protest Report_ that democratizes expertise previously available only to tax attorneys and real estate professionals.
+I'm the founder of Tax Corrector, a Django-based property tax analysis platform that helps Texas homeowners challenge unfair assessments and save thousands on property taxes. With an **87% case-found-to-purchase conversion rate,** Tax Corrector transforms complex real estate market analysis into a personalized and custom _Property Protest Report_ that democratizes expertise previously available only to tax attorneys and real estate professionals.
 
 Here's what I've discovered about myself through this journey: I'm that person who can't help but ask "but *why* does it work that way?" I thrive on architectural thinking that builds bridges from chaos to interconnected systems. I'm naturally drawn to foundational principles that I can apply across domains because understanding the "why" unlocks so much more than memorizing the "how."
 
