@@ -1,6 +1,6 @@
 # Hey, I'm Josh
 
-I'm a Solutions Engineer II at [Datadog](https://www.datadoghq.com/), focused on Kubernetes, containers, and cloud infrastructure. I got into tech at 40 through Flatiron School's software engineering bootcamp. Before that, I spent 15 years in real estate — which is actually how Tax Corrector started. I knew the property tax problem firsthand before I ever wrote a line of code.
+I'm a Solutions Engineer II at [Datadog](https://www.datadoghq.com/), focused on Kubernetes, containers, and cloud infrastructure. I got into tech at 40 through Flatiron School's software engineering bootcamp. Before that, I spent 15 years in real estate — that background ended up shaping what I build.
 
 ---
 
